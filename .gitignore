@@ -9,3 +9,6 @@ __pycache__/
 
 # Optionale Log-Dateien
 *.log
+
+www.youtube.com_cookies.txt
+*.cookies.txt
