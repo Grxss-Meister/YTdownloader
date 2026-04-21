@@ -1,0 +1,11 @@
+# PyInstaller Ordner
+build/
+dist/
+*.spec
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Optionale Log-Dateien
+*.log
