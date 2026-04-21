@@ -1,4 +1,4 @@
-# YTDownloader
+# YT-Downloader
 
 Simple Python script to download YT-Videos.
 
