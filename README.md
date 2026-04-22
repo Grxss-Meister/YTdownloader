@@ -32,7 +32,7 @@ Download the latest `.exe` from the [Releases](../../releases) page. No Python r
 ```bash
    python main.py
 ```
-5. Or press the Run button in VsCode
+5. Or press the ▶️ Run button in VS Code
 
 ## 🎬 Tutorial
 
