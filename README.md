@@ -25,14 +25,18 @@ A simple tool to download YouTube videos and audio directly from a link.
 Download the latest `.exe` from the [Releases](../../releases) page. No Python required.
 
 ### Option 2 — Run from source
-1. Download or clone this repository
-2. Open the project folder in [Visual Studio Code](https://code.visualstudio.com/)
-3. Open the integrated terminal 
-4. Run the script:
+1.You need Python 3.14
+2. Download or clone this repository
+```bash
+  git clone https://github.com/Grxss-Meister/YTdownloader.git
+```
+3. Open the project folder in [Visual Studio Code](https://code.visualstudio.com/)
+4. Open the integrated terminal 
+5. Run the script:
 ```bash
    python main.py
 ```
-5. Or press the ▶️ Run button in VS Code
+8. Or press the ▶️ Run button in VS Code
 
 ## 🎬 Tutorial
 
